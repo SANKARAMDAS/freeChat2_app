@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647365365437",
+    "project_id": "freechat2-bad0c",
+    "storage_bucket": "freechat2-bad0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647365365437:android:84a8e10667812390b4b1d4",
+        "android_client_info": {
+          "package_name": "com.sand.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647365365437-se9csilf7fdhk6u6tf732t3725pnsgmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZerUgXZKPqAR9dbfmcPXT8EFaEC7A4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647365365437-se9csilf7fdhk6u6tf732t3725pnsgmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
